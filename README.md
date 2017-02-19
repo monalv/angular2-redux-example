@@ -78,7 +78,7 @@ Refer to the [issues section](https://github.com/rangle/angular2-redux-example/i
 to see what needs to be done, or create a [new one](https://github.com/rangle/angular2-redux-example/issues/new).
 
 ## License
-
+ff
 Copyright (c) 2016 rangle.io
 
 [MIT License][MIT]
